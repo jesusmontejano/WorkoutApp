@@ -2,7 +2,7 @@ import harperdb
 
 url = "https://cloud-1-jesusmontejano.harperdbcloud.com"
 username = "jesus"
-password = "Horhay1994!"
+password = "*******!"
 
 db = harperdb.HarperDB(
     url=url,
